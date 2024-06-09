@@ -1,0 +1,3 @@
+/Users/cydnie/CLionProjects/CS210P2/cmake-build-debug/CMakeFiles/CS210P2.dir
+/Users/cydnie/CLionProjects/CS210P2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cydnie/CLionProjects/CS210P2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
